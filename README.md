@@ -1,7 +1,7 @@
 # FoodEase
-![FoodEase](https://githu/thearsalanqureshi/FoodEase-Prototype-App-b.com/blob/40a143b8b6afc02636d0b48645690494bab7a8bd/mockup%20foodease.png)
+![FoodEase](https://githu/thearsalanqureshi/FoodEase-Prototype-App-b.com/raw/40a143b8b6afc02636d0b48645690494bab7a8bd/mockup%20foodease.png)
 
-# Project Overview
+## Project Overview
 A food delivery application prototype that demonstrates core user flows including restaurant browsing, menu selection, customization, order tracking, and account management. The prototype showcases a complete visual design system with multiple interconnected screens.
 
 ## **Tech Stack**
