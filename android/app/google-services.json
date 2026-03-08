@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "859465162363",
+    "project_id": "foodease-b45e6",
+    "storage_bucket": "foodease-b45e6.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:859465162363:android:e76b05d2a3c1a285594cde",
+        "android_client_info": {
+          "package_name": "company.arsalan.foodease"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBE0IVCLfVrjvYkEa18lE-mI6QLVc2ET0k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
